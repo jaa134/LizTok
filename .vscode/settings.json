@@ -1,0 +1,9 @@
+{
+  "comment-divider.length": 120,
+  "comment-divider.lineFiller": "/",
+  "comment-divider.mainHeaderAlign": "left",
+  "comment-divider.mainHeaderFiller": "/",
+  "comment-divider.subheaderAlign": "left",
+  "comment-divider.subheaderFiller": "/",
+  "comment-divider.shouldLengthIncludeIndent": true
+}
